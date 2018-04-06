@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'APIKit1_Example' do
+  pod 'APIKit1', :path => '../'
+
+  target 'APIKit1_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
