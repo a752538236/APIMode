@@ -1,0 +1,27 @@
+{
+  "name": "APIKit1",
+  "version": "1",
+  "summary": "jieshaoAPIKit1.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/a752538236/APIMode",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "a752538236": "wt034038@126.com"
+  },
+  "source": {
+    "git": "https://github.com/a752538236/APIMode.git",
+    "tag": "1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "APIKit1/Classes/**/*",
+  "dependencies": {
+    "AFNetworking": [
+
+    ]
+  }
+}
